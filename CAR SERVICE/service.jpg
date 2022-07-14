@@ -1,0 +1,1384 @@
+<!DOCTYPE html>
+<!-- saved from url=(0060)https://pagefly.io/pages/preview?template=car-dealer-service -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<link rel="canonical" href="https://pagefly.io/pages/preview">
+		<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,shrink-to-fit=no">
+
+		<link rel="icon" type="image/svg+xml" href="https://cdn.shopify.com/s/files/1/0090/9236/6436/t/10/assets/favicon.png?v=157107220991724346201655957098">
+
+		<title>Preview template</title>
+
+		
+
+		
+      	
+
+      	<meta name="google-site-verification" content="hBe2TJOYUobywTn6ViDhebMpaz_2Em2f7I2eCJ-YLK4">
+
+      	<meta property="fb:app_id" content="139856673343567">
+<meta property="og:site_name" content="PageFly">
+
+
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="PageFly - Advanced Page Builder for Shopify">
+	<meta property="og:image" content="//cdn.shopify.com/s/files/1/0090/9236/6436/t/10/assets/fb-share.png?v=51816638558466364191655957067">
+	<meta property="og:image:secure_url" content="//cdn.shopify.com/s/files/1/0090/9236/6436/t/10/assets/fb-share.png?v=51816638558466364191655957067">
+	<meta property="og:description" content="">
+	<meta property="og:url" content="https://pagefly.io">
+
+		
+
+		<style>
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("https://cdn.shopify.com/s/files/1/0358/0841/1785/files/SFProDisplay-Regular.woff2?v=1655458569")
+      format("woff2"),
+    url("https://cdn.shopify.com/s/files/1/0358/0841/1785/files/SFProDisplay-Regular.woff?v=1655458569")
+      format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2)
+    format("woff2");
+  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8,
+    U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+@font-face {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2)
+    format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+    U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2)
+    format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z11lFd2JQEl8qw.woff2)
+    format("woff2");
+  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8,
+    U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+@font-face {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1JlFd2JQEl8qw.woff2)
+    format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+    U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2)
+    format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
+}
+:root {
+  --font-primary_: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  --font-primary: "SF Pro Display";
+  --font-secondary: "Poppins", sans-serif;
+  --gutter: 16px;
+  --color-primary: #535af7;
+  --color-secondary: #a6acff;
+  --color-pastel: #f0f2ff;
+  --color-dark: #16171a;
+  --color-light: #fff;
+  --color-gray: #73747b;
+  --color-gray-2: #a5a5ab;
+  --color-border: #f0f0f0;
+  --background-color-dark: #16171a;
+  --text-x1: calc(32px + (64 - 32) * ((100vw - 375px) / (1440 - 375)));
+  --text-x2: calc(26px + (52 - 26) * ((100vw - 375px) / (1440 - 375)));
+  --text-x3: calc(26px + (40 - 26) * ((100vw - 375px) / (1440 - 375)));
+  --text-x4: calc(18px + (20 - 18) * ((100vw - 375px) / (1440 - 375)));
+  --text-x5: calc(16px + (18 - 16) * ((100vw - 375px) / (1440 - 375)));
+  --box-shadow: 0 3px 6px -4px rgba(0, 0, 0, 0.12),
+    0 6px 16px rgba(0, 0, 0, 0.08), 0 9px 28px 8px rgba(0, 0, 0, 0.05);
+  --grid-bg-image: url('https://cdn.shopify.com/s/files/1/0090/9236/6436/t/5/assets/cta_bg-1656572799503.png?v=1656572801');
+  --grid-bg-image-2: url('https://cdn.shopify.com/s/files/1/0090/9236/6436/t/5/assets/cta_bg_enterprise-1656573200427.png?v=1656573202');
+  --grid-bg-image-3: url(//cdn.shopify.com/s/files/1/0090/9236/6436/t/10/assets/gradient_bg.png?v=140385274144063292081655957084);
+}
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: 14px;
+}
+body {
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  overflow-x: hidden;
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: var(--font-primary);
+  color: var(--color-dark);
+  transition: padding 0.3s 0s cubic-bezier(0.4, 0, 0.6, 1);
+}
+a {
+  text-decoration: none;
+  color: var(--color-dark);
+}
+button,
+input {
+  outline: 0;
+}
+input,
+select,
+textarea {
+  border: 1px solid #e6e6e6;
+  font-family: var(----font-primary);
+}
+textarea {
+  padding: 8px;
+}
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  line-height: 1.25;
+  font-weight: 600;
+  font-family: var(--font-secondary);
+}
+h1 {
+  font-size: var(--text-x2);
+  line-height: 56px;
+}
+h2 {
+  font-size: var(--text-x3);
+  line-height: 42px;
+}
+h3 {
+  font-size: var(--text-x4);
+  line-height: 36px;
+}
+h4 {
+  font-size: var(--text-x5);
+  line-height: 28px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+.container-fluid {
+  width: 100%;
+  padding-right: var(--gutter);
+  padding-left: var(--gutter);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 calc(var(--gutter) * -1);
+}
+.col {
+  padding: 0 var(--gutter);
+  max-width: 100%;
+  flex-basis: 0%;
+  flex-grow: 1;
+}
+.button {
+  display: inline-flex;
+  white-space: nowrap;
+  font-family: var(--font-secondary);
+  font-weight: 600;
+}
+.button--small {
+  line-height: 32px !important;
+  font-size: 14px !important;
+}
+.button--medium {
+  line-height: 40px !important;
+}
+.button--large {
+  line-height: 48px !important;
+  padding: 0 24px !important;
+}
+.button--outline {
+  border: 1px solid #f4f3f8;
+  background: #fff;
+ 
+}
+.button--outline:hover {
+  background: #e5e5e5;
+}
+.button--outline:focus {
+  color: var(--color-dark);
+  background: #f4f3f8;
+}
+.button--solid {
+  background: var(--color-primary);
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.043);
+  color: #fff;
+}
+.button--solid:hover {
+  background: #4b51de;
+  color: #fff !important;
+}
+.button--solid:focus {
+  background: #757cf9;
+  color: #fff !important;
+}
+
+.button--plain {
+  color: var(--color-primary);
+  background: #fff;
+}
+.button--plain:hover {
+}
+.text-x1 {
+  font-size: var(--text-x1);
+  line-height: 1.25;
+}
+.text-x2 {
+  font-size: var(--text-x2);
+  line-height: 1.38;
+}
+.text-x3 {
+  font-size: var(--text-x3);
+  line-height: 1.4;
+}
+.text-x4 {
+  font-size: var(--text-x4);
+  line-height: 1.6;
+}
+.text-x5 {
+  font-size: var(--text-x5);
+  line-height: 1.77;
+}
+.text-x6 {
+  font-size: 14px;
+  line-height: 1.7;
+}
+.text-x7 {
+  font-size: 14px;
+}
+.text-x8 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+.text-small {
+  font-size: 12px;
+  line-height: 1.333;
+}
+.text-big {
+  font-size: 18px;
+  line-height: 1.77;
+}
+.pr {
+  position: relative;
+}
+.pa {
+  position: absolute;
+}
+.pf {
+  position: fixed;
+}
+.ul {
+  list-style: none;
+}
+.center {
+  justify-content: center;
+  text-align: center;
+}
+.end {
+  justify-content: flex-end;
+  text-align: right;
+}
+.middle {
+  align-items: center;
+}
+.between {
+  justify-content: space-between;
+}
+.dn {
+  display: none;
+}
+.db {
+  display: block;
+}
+.dib {
+  display: inline-block;
+}
+.df {
+  display: flex;
+}
+.wf {
+  width: 100%;
+}
+.hf {
+  height: 100%;
+}
+.bg-color-pastel {
+  background: var(--color-pastel);
+}
+.shadow {
+  box-shadow: var(--box-shadow);
+}
+.overlay {
+  background: rgba(0, 0, 0, 0.5);
+  left: 0;
+  top: 0;
+  z-index: 100;
+  opacity: 0;
+  visibility: hidden;
+}
+.modal {
+  background: #fff;
+  max-width: 564px;
+  padding: 36px 20px;
+  transform: translateY(-20%);
+  opacity: 0;
+}
+.modal span {
+  color: var(--color-gray);
+}
+.modal .button {
+  margin: 24px 0 16px;
+}
+.modal .dib {
+  color: var(--color-primary);
+}
+.modal__close {
+  width: 32px;
+  height: 32px;
+  top: 12px;
+  right: 12px;
+  text-align: center;
+  line-height: 36px;
+}
+.header {
+  --color-link: #73747b;
+  --color-link-hover: #fff;
+  --color-dark: #16171a;
+  position: fixed;
+  top: 0;
+  background: transparent;
+  z-index: 11;
+  height: 72px;
+    transition: all ease .35s;
+}
+.header--solid.header,
+.is-search-show.header,
+.is-header-sticky .header {
+  background: #fff;
+  box-shadow: inset 0px -1px #ececec;
+}
+.header__logo {
+  width: 140px;
+  height: 40px;
+  transition: all ease 0.3s;
+}
+.header__logo--light {
+  visibility: visible;
+  opacity: 1;
+}
+.header__logo--dark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: left;
+  visibility: hidden;
+  opacity: 0;
+}
+.header--solid .header__logo--light,
+.is-search-show .header__logo--light,
+.is-header-sticky .header__logo--light {
+  visibility: hidden;
+  opacity: 0;
+}
+.header--solid .header__logo--dark,  
+.is-search-show .header__logo--dark,
+.is-header-sticky .header__logo--dark {
+  visibility: visible;
+  opacity: 1;
+}
+
+.sf__input {
+  padding: 0 24px 0 48px !important;
+}
+.sf__icon {
+  top: 15px;
+  left: 18px;
+}
+.sf__placeholder {
+  color: rgba(0, 0, 0, 0.25);
+  top: 18px;
+  left: 50px;
+  pointer-events: none;
+}
+.sf__result {
+  background: #fff;
+}
+.sf__loading {
+  padding: 20px 0;
+}
+.spin {
+  transform: rotate(45deg);
+  animation: rotate 1.2s linear infinite;
+  position: relative;
+  font-size: 20px;
+  width: 1em;
+  height: 1em;
+}
+.spin i {
+  position: absolute;
+  width: 9px;
+  height: 9px;
+  background-color: var(--color-primary);
+  border-radius: 100%;
+  transform: scale(0.75);
+  transform-origin: 50% 50%;
+  opacity: 0.3;
+  animation: spinMove 1s linear infinite alternate;
+}
+.spin i:first-child {
+  top: 0;
+  left: 0;
+}
+.spin i:nth-child(2) {
+  top: 0;
+  right: 0;
+  animation-delay: 0.4s;
+}
+.spin i:nth-child(3) {
+  right: 0;
+  bottom: 0;
+  animation-delay: 0.8s;
+}
+.spin i:nth-child(4) {
+  bottom: 0;
+  left: 0;
+  animation-delay: 1.2s;
+}
+@keyframes rotate {
+  to {
+    -webkit-transform: rotate(405deg);
+    transform: rotate(405deg);
+  }
+}
+@keyframes spinMove {
+  to {
+    opacity: 1;
+  }
+}
+
+
+@media (min-width: 1025px) {
+  body.is-bar-show {
+    padding-top: 64px;
+  }
+
+  .header {
+    --color-link: var(--color-gray);
+    --color-link-hover: #ffffff;
+    height: 80px;
+    padding-left: var(--gutter);
+    padding-right: var(--gutter);
+  }
+  .header--solid.header,
+  .is-header-sticky .header {
+    --color-link-hover: var(--color-dark);
+  }
+  .menu__child a {
+    padding: 10px 16px;
+    font-size: 14px;
+  }
+  .menu > .pr:after,
+  .menu > .pr:before,
+  .menu__child a:after,
+  .menu__child a:before {
+    display: none;
+  }
+  .menu__child {
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+    width: 160px;
+    background: #fff;
+    top: calc(100% - 26px);
+    display: block;
+    transition: all 0.35s;
+    box-shadow: var(--box-shadow);
+    padding: 12px 0;
+    pointer-events: none;
+  }
+  .menu__child.activated {
+    display: block;
+  }
+  .menu__item--two .menu__child {
+    width: 349px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .menu__title {
+    padding: 10px 16px;
+    margin: 0 0 8px;
+  }
+  .is-header-sticky .header {
+    height: 80px;
+  }
+  .is-search-show.header {
+    height: 88px;
+  }
+  .dn-md {
+    display: none;
+  }
+  .df-md {
+    display: flex;
+  }
+  .sf {
+    width: 750px;
+  }
+}
+
+</style>
+		<link rel="stylesheet" href="./service_files/style.css" type="text/css" as="style" onload="this.onload=null;this.rel=&#39;stylesheet&#39;;">
+
+		<script type="text/javascript" async="" src="./service_files/launcher.js.download"></script><script type="text/javascript" async="" src="./service_files/shopify.js.download"></script><script type="text/javascript" async="" src="./service_files/analytics.js.download"></script><script type="text/javascript" async="" src="./service_files/destination"></script><script type="text/javascript" async="" src="./service_files/js"></script><script type="text/javascript" async="" src="./service_files/trekkie.storefront.b3ffc0d3163b69e5f990acf63cd65cdbdba0582e.min.js.download"></script><script async="" src="./service_files/qevents.js.download"></script><script src="./service_files/318409945683166" async=""></script><script async="" src="./service_files/fbevents.js.download"></script><script async="" src="./service_files/gtm.js.download"></script><script async="" src="./service_files/analytics.js.download"></script><script src="./service_files/init.js.download"></script>
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https:\/\/www.google-analytics.com\/analytics.js','ga');
+	ga('create', 'UA-131909580-1', 'auto');
+	// ga('send', 'pageview');
+
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-KJG777B');
+
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	 if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	 n.queue=[];t=b.createElement(e);t.async=!0;
+	 t.src=v;s=b.getElementsByTagName(e)[0];
+	 s.parentNode.insertBefore(t,s)}(window, document,'script',
+									 'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '318409945683166');
+	fbq('track', 'PageView');
+	
+	!function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+	qp('init', 'b08495aa20b9450ab0b41bfb2b16e31d');
+	qp('track', 'ViewContent');
+
+	window.$crisp=[];
+	window.CRISP_WEBSITE_ID="7cd1799e-e8eb-476e-8cb7-33778fc41c2a";
+	(function(){
+	  d=document;s=d.createElement("script");
+	  s.src="https://client.crisp.chat/l.js";
+	  s.async=1;
+	  d.getElementsByTagName("head")[0].appendChild(s);
+	})();
+	window.$crisp.push(["set", "session:segments", [["presales"]]]);
+	$crisp.push(['config', 'container:index', 1000001])
+
+	function getParameterByName(name, url = window.location.href) {
+		name = name.replace(/[\[\]]/g, '\\$&');
+		var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+			results = regex.exec(url);
+		if (!results) return null;
+		if (!results[2]) return '';
+		return decodeURIComponent(results[2].replace(/\+/g, ' '));
+	}
+	const utm_source = getParameterByName('utm_source');
+	const utm_content = getParameterByName('utm_content');
+	if(utm_source === 'nurturing' && utm_content === 'uninstall_app') {
+		$crisp.push(['do', 'chat:open']);
+		$crisp.push(["set", "session:segments", [["reconvert-free"]]])
+	}
+</script><script src="./service_files/l.js.download" async=""></script>
+		
+		<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/9092366436/digital_wallets/dialog">
+<script id="shopify-features" type="application/json">{"accessToken":"11cf50b481ab365cceab21cac61b2697","betas":["rich-media-storefront-analytics"],"domain":"pagefly.io","predictiveSearch":true,"shopId":9092366436,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js?v=2","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js?v=2","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "pagefly-mainsite.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"VND","rate":"1.0"};
+Shopify.country = "VN";
+Shopify.theme = {"name":"V4","id":125154787428,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/omnisnippet1.com\/inShop\/Embed\/shopify.js?shop=pagefly-mainsite.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":9092366436,"offset":25200,"reqid":"6dfc658f-6918-4f5d-af0d-b5fb6224dbf0","pageurl":"pagefly.io\/pages\/preview?template=car-dealer-service","s":"pages-80233824356","u":"82bf8bee38ca","p":"page","rtyp":"page","rid":80233824356};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-N6F6ZjvOAMPhcD0kfZWNQQgx6eXaxFfh6aqfN0geLrU=" data-source-attribution="shopify.loadfeatures" defer="defer" src="./service_files/load_feature-37a17a663bce00c3e1703d247d958d410831e9e5dac457e1e9aa9f37481e2eb5.js.download" crossorigin="anonymous"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="./service_files/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js.download" crossorigin="anonymous"></script>
+
+
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+		<style>
+			body {
+				padding-top: 80px;
+			}
+			.navigation {
+				height: 80px;
+				box-shadow: inset 0px -1px 0px #F0F0F0;
+			}
+			.devices a {
+				width: 48px;
+                height: 48px;
+                border: 1px solid #E6E6E6;
+                display: flex;
+                margin-left: -1px;
+                justify-content: center;
+                align-items: center;
+			}
+			.devices a:first-child {
+				border-radius: 2px 0 0 2px;
+			}
+			.devices a:last-child {
+				border-radius: 0 2px 2px 0;
+			}
+			.devices .selected {
+				border-color: var(--color-primary);
+				z-index: 1;
+				color: var(--color-primary);
+			}
+			.device-preview {
+				height: calc(100vh - 64px);
+				background: #F0F2F5;
+			}
+			.device-preview iframe {
+				left: 50%;
+				top: 50%;
+				transform: translate(-50%, -50%);
+				background: #fff;
+			}
+			.laptop iframe {
+				max-width: 1200px;
+			}
+			.tablet iframe {
+				max-width: 768px;
+			}
+			.mobile iframe {
+				max-width: 375px;
+				max-height: 624px;
+			}
+			.button--square {
+				width: 48px;
+				height: 48px;
+				line-height: 48px;
+				border-radius: 4px;
+			}
+			.button--square:hover {
+				background: rgba(0, 0, 0, .018);
+				color: var(--color-primary);
+			}
+			.name {
+				padding-left: 16px;
+				font-weight: 600;
+				text-transform: capitalize;
+				white-space: nowrap;
+	            font-family: var(--font-secondary);
+			}
+			
+			.button--popover {
+				width: 32px;
+				height: 32px;
+				padding: 0 !important;
+				line-height: 32px;
+				margin-left: 8px;
+			}
+			.popover ul {
+				background: #fff;
+				width: 200px;
+				padding: 4px 0;
+				border-radius: 2px;
+				right: 0;
+				transform: scale(0);
+				transition: transform .35s;
+				transform-origin: right top;
+			}
+			.popover ul a {
+				padding: 8px 12px;
+				text-align: left;
+			}
+			.is-popover-show + ul {
+				transform: scale(1);
+			}
+			.menu .button {
+				margin: 0 20px 8px;
+			}
+			.navigation .text-x7 {
+				margin-right: 24px;
+				text-transform: uppercase;
+				background-image: linear-gradient( -225deg, var(--color-primary) 0%, #44107a 29%, #ff1361 67%, #fff800 100% );
+				background-size: 200% auto;
+				color: #fff;
+				background-clip: text;
+				text-fill-color: transparent;
+				-webkit-background-clip: text;
+				-webkit-text-fill-color: transparent;
+				animation: textclip 2s linear infinite;
+				display: inline-block;
+				font-size: 16px;
+				font-weight: bold;
+				white-space: nowrap;
+			}
+			@keyframes textclip {
+				to {
+					background-position: 200% center;
+				}
+			}
+		</style>
+ 	<link href="https://monorail-edge.shopifysvc.com/" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 9092366436,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "page"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'VND';
+var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":80233824356}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var hasLoggedConversion = function(token) {
+    if (token) {
+      return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+    }
+    return false;
+  }
+
+  var setCookieIfConversion = function(token) {
+    if (token) {
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config || {};
+    trekkie.config.initialDocumentCookie = document.cookie;
+    var first = document.getElementsByTagName('script')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      var scriptFallback = document.createElement('script');
+      scriptFallback.type = 'text/javascript';
+      scriptFallback.onerror = function(error) {
+              var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+    
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+    
+        } // XHR beacon   
+    
+        var xhr = new XMLHttpRequest();
+    
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+    
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 9092366436,
+      theme_id: 125154787428,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.b3ffc0d3163b69e5f990acf63cd65cdbdba0582e.min.js"});
+
+      };
+      scriptFallback.async = true;
+      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.b3ffc0d3163b69e5f990acf63cd65cdbdba0582e.min.js';
+      first.parentNode.insertBefore(scriptFallback, first);
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.b3ffc0d3163b69e5f990acf63cd65cdbdba0582e.min.js';
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":9092366436,"isMerchantRequest":null,"themeId":125154787428,"themeCityHash":"16718004499505587744","contentLanguage":"en","currency":"VND"},"isServerSideCookieWritingEnabled":true},"Session Attribution":{},"S2S":{"emitV4CheckoutEvent":true,"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"page","resourceType":"page","resourceId":80233824356});
+
+    var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+    var token = match? match[1]: undefined;
+    if (!hasLoggedConversion(token)) {
+      setCookieIfConversion(token);
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-fa61fd11817b231631d2fe43dc869d0b1d14a06332792d42f1a1d94bda5aa31e.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script><script async="" src="./service_files/shop_events_listener-fa61fd11817b231631d2fe43dc869d0b1d14a06332792d42f1a1d94bda5aa31e.js.download"></script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "";
+  window.BOOMR.themeVersion = "";
+  window.BOOMR.shopId = 9092366436;
+  window.BOOMR.themeId = 125154787428;
+  window.BOOMR.url =
+    "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script><link href="./service_files/shopify-boomerang-1.0.0.min.js.download" rel="preload" as="script">
+<script id="boomr-scr-as" src="./service_files/shopify-boomerang-1.0.0.min.js.download" async=""></script><link href="https://client.relay.crisp.chat/" rel="dns-prefetch" crossorigin=""><link href="https://client.crisp.chat/" rel="preconnect" crossorigin=""><script src="./service_files/client.js.download" type="text/javascript" async=""></script><link href="./service_files/client_default.css" type="text/css" rel="stylesheet"><script type="text/javascript" async="true" src="./service_files/forms.js.download"></script><script type="text/javascript" async="true" src="./service_files/main.js.download"></script></head> 
+	<body>
+		
+		
+
+<div class="navigation header wf df middle">
+	<div class="container-fluid pr wf">
+		<div class="row middle">
+			<div class="col df middle">
+				<a class="button--square center df middle button--outline button--large" href="https://pagefly.io/pages/templates">
+					
+	
+        <svg width="16" height="16" viewBox="0 0 16 16">
+	        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.80474 3.19526C10.0651 3.45561 10.0651 3.87772 9.80474 4.13807L6.27614 7.66667L9.80474 11.1953C10.0651 11.4556 10.0651 11.8777 9.80474 12.1381C9.54439 12.3984 9.12228 12.3984 8.86193 12.1381L4.86193 8.13807C4.60158 7.87772 4.60158 7.45561 4.86193 7.19526L8.86193 3.19526C9.12228 2.93491 9.54439 2.93491 9.80474 3.19526Z" fill="currentColor"></path>
+        </svg>
+	
+				</a>
+				<span class="name pr text-x5">car dealer service</span>
+			</div>
+			<div class="col center df-md dn">
+				<div class="devices df">
+					<a class="selected" href="https://pagefly.io/pages/preview?template=car-dealer-service#" data-device="desktop">
+						<svg viewBox="64 64 896 896" focusable="false" data-icon="desktop" width="1em" height="1em" fill="currentColor" aria-hidden="true"><path d="M928 140H96c-17.7 0-32 14.3-32 32v496c0 17.7 14.3 32 32 32h380v112H304c-8.8 0-16 7.2-16 16v48c0 4.4 3.6 8 8 8h432c4.4 0 8-3.6 8-8v-48c0-8.8-7.2-16-16-16H548V700h380c17.7 0 32-14.3 32-32V172c0-17.7-14.3-32-32-32zm-40 488H136V212h752v416z"></path></svg>
+					</a>
+					<a href="https://pagefly.io/pages/preview?template=car-dealer-service#" data-device="laptop">
+						<svg viewBox="64 64 896 896" focusable="false" data-icon="laptop" width="1em" height="1em" fill="currentColor" aria-hidden="true"><path d="M956.9 845.1L896.4 632V168c0-17.7-14.3-32-32-32h-704c-17.7 0-32 14.3-32 32v464L67.9 845.1C60.4 866 75.8 888 98 888h828.8c22.2 0 37.6-22 30.1-42.9zM200.4 208h624v395h-624V208zm228.3 608l8.1-37h150.3l8.1 37H428.7zm224 0l-19.1-86.7c-.8-3.7-4.1-6.3-7.8-6.3H398.2c-3.8 0-7 2.6-7.8 6.3L371.3 816H151l42.3-149h638.2l42.3 149H652.7z"></path></svg>
+					</a>
+					<a href="https://pagefly.io/pages/preview?template=car-dealer-service#" data-device="tablet">
+						<svg viewBox="64 64 896 896" focusable="false" data-icon="tablet" width="1em" height="1em" fill="currentColor" aria-hidden="true"><path d="M800 64H224c-35.3 0-64 28.7-64 64v768c0 35.3 28.7 64 64 64h576c35.3 0 64-28.7 64-64V128c0-35.3-28.7-64-64-64zm-8 824H232V136h560v752zM472 784a40 40 0 1080 0 40 40 0 10-80 0z"></path></svg>
+					</a>
+					<a href="https://pagefly.io/pages/preview?template=car-dealer-service#" data-device="mobile">
+						<svg viewBox="64 64 896 896" focusable="false" data-icon="mobile" width="1em" height="1em" fill="currentColor" aria-hidden="true"><path d="M744 62H280c-35.3 0-64 28.7-64 64v768c0 35.3 28.7 64 64 64h464c35.3 0 64-28.7 64-64V126c0-35.3-28.7-64-64-64zm-8 824H288V134h448v752zM472 784a40 40 0 1080 0 40 40 0 10-80 0z"></path></svg>
+					</a>
+				</div>
+			</div>
+			<div class="col end df-md dn middle">
+              	<a href="https://shopify.pxf.io/x9b3J5" class="button button--plain button--large" target="_blank" rel="noopener noreferrer" data-button-try="">Create Store</a>
+				<a href="https://apps.shopify.com/pagefly?utm_campaign=app-listing&amp;utm_source=website&amp;utm_medium=mainsite&amp;utm_content=template-preview" class="button button--solid button--large" target="_blank" rel="noopener noreferrer" data-button-try="">Try this template</a>
+			</div>
+			<div class="col dn-md end df middle pr tpl__nav">
+				<a class="mm__open tpl__nav--toggle" href="https://pagefly.io/pages/preview?template=car-dealer-service#">
+	<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+		<path d="M3 18H21" stroke="#73747B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+		<path d="M3 12H21" stroke="#73747B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+		<path d="M3 6H21" stroke="#73747B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+	</svg>
+	</a>
+              	<a class="mm__close tpl__nav--toggle dn" href="https://pagefly.io/pages/preview?template=car-dealer-service#">
+		<svg width="20" height="20" viewBox="0 0 20 20">
+			<path d="M4.53033 3.46967C4.23744 3.17678 3.76256 3.17678 3.46967 3.46967C3.17678 3.76256 3.17678 4.23744 3.46967 4.53033L8.93934 10L3.46967 15.4697C3.17678 15.7626 3.17678 16.2374 3.46967 16.5303C3.76256 16.8232 4.23744 16.8232 4.53033 16.5303L10 11.0607L15.4697 16.5303C15.7626 16.8232 16.2374 16.8232 16.5303 16.5303C16.8232 16.2374 16.8232 15.7626 16.5303 15.4697L11.0607 10L16.5303 4.53033C16.8232 4.23744 16.8232 3.76256 16.5303 3.46967C16.2374 3.17678 15.7626 3.17678 15.4697 3.46967L10 8.93934L4.53033 3.46967Z" fill="currentColor"></path>
+		</svg>
+		
+	</a>
+				<ul class="menu dn ul center">
+                  	<li>
+						<a href="https://shopify.pxf.io/x9b3J5" class="button button--plain button--large" target="_blank" rel="noopener noreferrer" data-button-try="">Create Store</a>
+					</li>
+				
+					<li>
+						<a href="https://apps.shopify.com/pagefly?utm_campaign=app-listing&amp;utm_source=website&amp;utm_medium=mainsite&amp;utm_content=header" class="button button--solid button--large db center" target="_blank" rel="noopener noreferrer">Try this template</a>
+					</li>
+				</ul>
+			</div>
+		</div>		
+	</div>
+
+</div>
+<div class="device-preview pr">
+	<iframe class="pa hf wf" src="./service_files/car-dealer-service.html" frameborder="0"></iframe>
+</div>
+
+
+		
+		<script>
+			function toTitleCase(str) {
+				return typeof str === 'string'
+					? str.replace(/\w\S*/g, txt => txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase())
+					: str
+			}
+			const urlSearchParams = new URLSearchParams(window.location.search);
+			const params = Object.fromEntries(urlSearchParams.entries());
+			const name = document.querySelector('.name');
+			const template = params['template'] ? params['template'].replace(/-/g, ' ') : 'brookwood';
+			// const buttonInstall = document.querySelector('[data-button-try]');
+
+			name.innerHTML = template;
+			// buttonInstall.setAttribute('data-template-name', toTitleCase(template))
+
+			const iframe = document.querySelector('.device-preview iframe');
+			const devicePreview = document.querySelector('.device-preview');
+			iframe.src = 'https://cdn.pagefly.io/templates/html/' + params['template'] + '.html';
+
+			let lastClickedElement;
+
+			for (const device of document.querySelectorAll('[data-device]')) {
+				device.addEventListener('click', function(event) {
+					event.preventDefault();
+
+					device.parentElement.querySelectorAll('a').forEach( e => e.classList.remove('selected'));
+					device.classList.add('selected')
+
+					const data = device.getAttribute('data-device')
+
+					devicePreview.classList.remove('laptop','tablet','mobile')
+					devicePreview.classList.add(data)
+
+					const url = new URL(window.location);
+					url.searchParams.set('device', data);
+					window.history.pushState({}, '', url)
+				})
+			};
+
+			if ( params['device'] ) {
+				devicePreview.classList.add(params['device'])
+
+				document.querySelector('.selected').parentElement.querySelectorAll('a').forEach( e => e.classList.remove('selected'));
+				document.querySelector('[data-device="' + params['device'] + '"]').classList.add('selected')
+			}
+		</script>
+		<script defer="" src="./service_files/javascript.js.download"></script>
+	
+<div id="omnisend-dynamic-container" style="overflow: hidden; height: 0px;"><div id="omnisend-pixel-container"><img src="./service_files/event" alt=""></div><div id="omnisend-jsonp-container"><script src="./service_files/getSettings"></script></div><div id="soundest-forms-container"></div></div><div class="crisp-client"><div class="cc-1ctt"><div class="cc-7gif"><style type="text/css">.crisp-client .cc-52lo .cc-guf7,
+.crisp-client .cc-52lo .cc-u6xv:hover {
+  color: #ffffff !important;
+}
+
+.crisp-client .cc-52lo .cc-1iix,
+.crisp-client .cc-52lo .cc-261u:hover {
+  color: #464cc5 !important;
+}
+
+.crisp-client .cc-52lo .cc-co2u {
+  background-color: #ffffff !important;
+}
+
+.crisp-client .cc-52lo .cc-1wxt {
+  background-color: #232662 !important;
+}
+
+.crisp-client .cc-52lo .cc-dw9j {
+  background-color: #3b40a7 !important;
+}
+
+.crisp-client .cc-52lo .cc-1s3d,
+.crisp-client .cc-52lo .cc-1801:before,
+.crisp-client .cc-52lo .cc-1801:after {
+  background-color: #464cc5 !important;
+}
+
+.crisp-client .cc-52lo .cc-uqci {
+  background-color: #F5F5FB !important;
+}
+
+.crisp-client .cc-52lo .cc-qovj,
+.crisp-client .cc-52lo .cc-1x4w:hover {
+  background-color: #F9F9F9 !important;
+}
+
+.crisp-client .cc-52lo .cc-3g79 {
+  background-image: linear-gradient(125deg, #464cc5 -10%, #232662 100%) !important;
+}
+
+.crisp-client .cc-52lo .cc-1n87,
+.crisp-client .cc-52lo .cc-bqvd:hover {
+  border-color: #ffffff !important;
+}
+
+.crisp-client .cc-52lo .cc-19cc {
+  border-color: rgba(35, 38, 98, 0.175) !important;
+}
+
+.crisp-client .cc-52lo .cc-1o2b,
+.crisp-client .cc-52lo .cc-1cyj:hover,
+.crisp-client .cc-52lo .cc-1y3p:before,
+.crisp-client .cc-52lo .cc-1y3p:after {
+  border-color: #464cc5 !important;
+}
+
+.crisp-client .cc-52lo .cc-a742 {
+  border-color: rgba(70, 76, 197, 0.15) !important;
+}
+
+.crisp-client .cc-52lo .cc-vw1h {
+  border-top-color: #464cc5 !important;
+}
+
+.crisp-client .cc-52lo .cc-k3po,
+.crisp-client .cc-52lo .cc-9u1x:hover {
+  border-color: #F5F5FB !important;
+}
+
+.crisp-client .cc-52lo .cc-1f79::placeholder {
+  color: #4f55de !important;
+}
+
+.crisp-client .cc-52lo .cc-1916::placeholder {
+  color: #4f55de !important;
+}
+
+.crisp-client .cc-52lo .cc-12pv,
+.crisp-client .cc-52lo .cc-16ql:hover,
+.crisp-client .cc-52lo .cc-12pv:hover,
+.crisp-client .cc-52lo .cc-16ql:active,
+.crisp-client .cc-52lo .cc-12pv:active,
+.crisp-client .cc-52lo .cc-645b:hover .cc-1je6,
+.crisp-client .cc-52lo .cc-645b .cc-1je6:active {
+  background: #232662 !important;
+}
+
+.crisp-client .cc-52lo .cc-iksl,
+.crisp-client .cc-52lo .cc-1mr2:hover {
+  background: #343993 !important;
+}
+
+.crisp-client .cc-52lo .cc-iksl:hover,
+.crisp-client .cc-52lo .cc-1mr2:active {
+  background: #2d3180 !important;
+}
+
+.crisp-client .cc-52lo .cc-iksl:active {
+  background: #232662 !important;
+}
+
+.crisp-client .cc-52lo .cc-o5ok:hover .cc-skim {
+  background: #343993 !important;
+}
+
+.crisp-client .cc-52lo .cc-o5ok .cc-skim:active {
+  background: #2d3180 !important;
+}
+
+.crisp-client .cc-52lo .cc-kafm,
+.crisp-client .cc-52lo .cc-bxg7[data-active="true"] {
+  background: #464cc5 !important;
+}
+
+.crisp-client .cc-52lo .cc-kafm:hover,
+.crisp-client .cc-52lo .cc-bxg7[data-active="true"]:active {
+  background: #3b40a7 !important;
+}
+
+.crisp-client .cc-52lo .cc-kafm:active {
+  background: #343993 !important;
+}
+
+.crisp-client .cc-52lo .cc-xh3e::selection,
+.crisp-client .cc-52lo .cc-xh3e *::selection {
+  color: #191919 !important;
+  background-color: #4f56e0 !important;
+}</style></div><div class="cc-12je"><style type="text/css">.crisp-client .cc-52lo {
+  z-index: 1000001;
+}
+</style></div><div class="cc-172q"><style type="text/css">.crisp-client .cc-52lo[data-full-view="false"][data-position-reverse="false"] .cc-kegp .cc-1oun,
+.crisp-client .cc-52lo[data-full-view="false"][data-position-reverse="false"] .cc-kegp .cc-1apq {
+  margin-right: -4px !important;
+}
+
+.crisp-client .cc-52lo[data-full-view="false"][data-position-reverse="false"] .cc-kegp .cc-1oun .cc-evsl .cc-1vyl {
+  margin-right: -4px !important;
+}
+
+.crisp-client .cc-52lo[data-full-view="false"][data-position-reverse="true"] .cc-kegp .cc-1oun,
+.crisp-client .cc-52lo[data-full-view="false"][data-position-reverse="true"] .cc-kegp .cc-1apq {
+  margin-left: -4px !important;
+}
+
+.crisp-client .cc-52lo[data-full-view="false"][data-position-reverse="true"] .cc-kegp .cc-1oun .cc-evsl .cc-1vyl {
+  margin-left: -4px !important;
+}
+</style></div></div><div id="crisp-chatbox" lang="en" dir="ltr" translate="no" class="cc-52lo" data-hidden="false" data-force-show="false" data-availability="online" data-lock-maximized="false" data-last-operator-face="false" data-availability-tooltip="true" data-hide-vacation="false" data-blocked="false" data-full-view="false" data-small-view="true" data-large-view="false" data-has-local-messages="false" data-was-availability-online="true" data-is-activity-ongoing="false" data-hide-on-away="false" data-hide-on-mobile="false" data-position-reverse="true"><div class="cc-kegp cc-xh3e"><a data-maximized="false" data-is-failure="false" role="button" class="cc-1oun" data-pane-animate-entrance="false"><span class="cc-evsl"><span data-id="general_entice" class="cc-1vyl" data-with-helpdesk="false" data-is-concealed="false"><span class="cc-18kh"><span class="cc-ltp8 cc-18hf"><span class="cc-d8mr"><span class="cc-13vc"><span class="cc-1j8t cc-1aqi"></span><span class="cc-fvex" data-has-avatar="true"><span class="cc-1mvz"><span class="cc-n8fq cc-ujki">Hey there 👋</span><span data-id="online" class="cc-1f1x cc-18hf">Online</span><span data-id="away" class="cc-1f1x cc-18hf">Away</span></span><span class="cc-1rgu"><span class="cc-30xn cc-gs4q"><span class="cc-1pur cc-1w1a" style="background-image: url(&quot;https://image.crisp.chat/process/thumbnail/?url=https%3A%2F%2Fstorage.crisp.chat%2Fusers%2Favatar%2Foperator%2Fab61da69a8ea8800%2Ffeu7vqp4u2fikxgohlsm605007e804_s6n92r.jpg&amp;width=240&amp;height=240&amp;1656661685022&quot;) !important;"></span></span></span></span></span></span><span data-when="online" class="cc-6l7x"><!--v-if--><span class="cc-jnng cc-1x4w"><span class="cc-1itl"><span class="cc-180r cc-1iix cc-ujki">Chat with human operator</span></span></span></span><span data-when="away" class="cc-6l7x"><!--v-if--><span class="cc-jnng cc-1x4w"><span class="cc-1itl"><span class="cc-180r cc-1iix cc-ujki">Chat with human operator</span></span></span></span></span></span></span></span><span class="cc-1qth cc-1s3d"><span data-id="chat_closed" class="cc-lgzk"><span data-is-ongoing="false" class="cc-3ycs"><!--v-if--></span></span></span></a></div></div></div></body></html>

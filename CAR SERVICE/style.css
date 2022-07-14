@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-image: url("SB.jpeg");
+    text-align: center;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    height: 500px;
+    width: 100%;
+}
